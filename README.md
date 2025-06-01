@@ -1,7 +1,7 @@
 # Lucio Tedeschi - Currículum Vitae
 
 👨‍🎓 Estudiante de Ingeniería en Informática  
-📍 Argentina, Buenos Aires
+📍 Argentina, Buenos Aires  
 📧 lucioltedeschi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/lucioltedeschi)  
 🔗 [Portfolio Web](EN DESARROLLO)  
