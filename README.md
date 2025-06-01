@@ -84,5 +84,5 @@ UADE, 2 años cursados
 
 ## 📫 Contacto
 
-📧 lucio.tedeschi@email.com  
-📞 +54 9 11 XXX XXXX  
+📧 lucioltedeschi@email.com  
+📞 +54 9 11 2529 9595  
