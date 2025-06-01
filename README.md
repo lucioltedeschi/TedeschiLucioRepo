@@ -56,9 +56,21 @@ Tengo un nivel avanzado en inglés, conocimientos avanzados en recursos informá
 
 ## 📚 Educación
 
+**Secundario con Orientación en Informática**  
+Colegio Schonthal, 5 años  
+*Egresado en 2021*
+
+**CBC - Arquitectura**  
+UBA, 1 años cursado
+*No continué con la carrera*
+
 **Ingeniería en Informática**  
-Universidad [Nombre], [Años cursados]  
-*Actualmente cursando materias del [n°]° año*
+UADE, 2 años cursados  
+*Actualmente cursando materias del 3° año*
+
+**Tecnicatura en desarrollo de Software**  
+UADE, 2 años cursados  
+*Actualmente cursando materias del ultimo año*
 
 ---
 
