@@ -61,7 +61,7 @@ Colegio Schonthal, 5 años
 *Egresado en 2021*
 
 **CBC - Arquitectura**  
-UBA, 1 años cursado
+UBA, 1 años cursado  
 *No continué con la carrera*
 
 **Ingeniería en Informática**  
