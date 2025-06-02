@@ -32,7 +32,7 @@ Tengo un nivel avanzado en inglés, conocimientos avanzados en recursos informá
 
 - Lenguajes: Python
 - Funcionalidad: Simula ejecución de procesos, calcula tiempos promedio, genera diagramas de Gantt.
-- [Ver proyecto](https://github.com/lucioltedeschi/TedeschiLucioRepo/tree/Projects/Proyectos/Simulador%20de%20Procesos)
+- [Ver proyecto](https://github.com/lucioltedeschi/TedeschiLucioRepo/tree/main/Proyectos/Generador%20de%20Diagramas)
 
 ---
 
@@ -50,7 +50,7 @@ Tengo un nivel avanzado en inglés, conocimientos avanzados en recursos informá
 
 - Lenguajes: Python
 - Librerías: `graphviz`
-- [Ver proyecto](https://github.com/lucioltedeschi/TedeschiLucioRepo/tree/Projects/Proyectos/Generador%20de%20Diagramas)
+- [Ver proyecto](https://github.com/lucioltedeschi/TedeschiLucioRepo/tree/main/Proyectos/Simulador%20de%20Procesos)
 
 ---
 
